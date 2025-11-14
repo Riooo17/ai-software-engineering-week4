@@ -5,7 +5,7 @@
 **Project:** Bug Severity Prediction from GitHub Issues
 
 
-**Author:** [Your Name]
+**Author:** Brian Omondi
 
 
 ## Overview
